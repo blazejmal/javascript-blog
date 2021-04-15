@@ -52,3 +52,4 @@ for (let link of links) {
   link.addEventListener('click', titleClickHandler);
 }
 
+console.log("send to git");
